@@ -145,6 +145,8 @@ Create simple HTML static pages
 * No Javascript
 * No data loaded from anything
 
+![alt text](image-1.png)
+
 ### Task 0: Inline styling
 - **File:** `0-index.html`
 - **Descrip:** Write an HTML page that displays a header and a footer.
