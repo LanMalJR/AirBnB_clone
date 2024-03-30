@@ -47,6 +47,7 @@ Create simple HTML static pages
 
 ### Task 8: More details
  - **Files:** `8-index.html`, `styles/4-common.css`, `styles/3-header.css`, `styles/3-footer.css`, `styles/6-filters.css`, `styles/8-places.css`, `images/`
+ - **Descrip:** Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
 
 
 
