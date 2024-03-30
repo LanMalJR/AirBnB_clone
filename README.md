@@ -35,9 +35,9 @@ Each task is linked and will help you to:
 - **Descrip** Now we can recreate a BaseModel from another one by using a dictionary representation: It’s great but it’s still not persistent: every time you launch the program, you don’t restore all objects created before… The first way you will see here is to save these objects to a file.
 
 * Writing the dictionary representation to a file won’t be relevant:
-- * Python doesn’t know how to convert a string to a dictionary (easily)
-- * It’s not human readable
-- * Using this file with another program in Python or other language will be hard.
+    * Python doesn’t know how to convert a string to a dictionary (easily)
+    * It’s not human readable
+    * Using this file with another program in Python or other language will be hard.
 
 ### Task 6: Console 0.0.1
 - **File** `console.py`
