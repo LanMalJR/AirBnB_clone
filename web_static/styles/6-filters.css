@@ -1,0 +1,73 @@
+.filters 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+}
+
+.locations, .amenities 
+{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+}
+
+.state-container, .amenities-list 
+{
+    margin: 10px 0;
+}
+
+.state-container h4, .amenities h3 
+{
+    font-weight: 600;
+    margin: 0;
+}
+
+.state-container p, .amenities-list li 
+{
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+}
+
+.locations 
+{
+    border-right: 1px solid #DDDDDD;
+}
+
+h3 
+{
+    font-weight: 600;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+h4 
+{
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+}
+
+.amenities-list 
+{
+    list-style: none;
+    padding: 0;
+}
+
+button 
+{
+  background-color: #FF5A5F;
+  color: #FFF;
+  height: 48px;
+  width: 20%;
+  border: none;
+  border-radius: 4px;
+  margin-right: 30px;
+  text-align: center;
+}
